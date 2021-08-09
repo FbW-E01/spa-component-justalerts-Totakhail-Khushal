@@ -17,7 +17,7 @@ This exercise uses Booooootstrap! For example, the following code renders a stan
 Knowing this, your task is to implement the `Box` component.
 
 - Look at index.js and take note of how the `Box` should be used and use that as a guide on how to implement it
-- Given the sample usage in index.js, the browser should show three differnet boxes on the page
+- Given the sample usage in index.js, the browser should show three different boxes on the page
 - The Box should print one of these: a red alert box, an orange warning box or a blue primary box
 - Figure out how to console.log all properties that are defined for the Box
 - If the box has a "hide" property, do not print anything
